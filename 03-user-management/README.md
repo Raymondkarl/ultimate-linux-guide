@@ -80,6 +80,12 @@ userdel -r username
 ```
 
 ## Working with Groups
+
+### Show all groups in the system
+```bash
+cat /etc/group
+```
+
 ### Creating Groups
 ```bash
 groupadd groupname
