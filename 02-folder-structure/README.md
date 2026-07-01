@@ -24,7 +24,7 @@
 | Directory | Description |
 |-----------|-------------|
 | `/home` | Default location for user home directories. |
-| `/opt` | Used for installing optional third-party software. |
+| `/opt` | Used for installing optional third-party software. Programs, which not split its components. |
 | `/srv` | Holds data for services like web servers (rarely used in containers). |
 | `/root` | Home directory for the root user. |
 
@@ -35,7 +35,7 @@
 | `/run` | Holds runtime data for processes. |
 | `/proc` | Virtual filesystem for process and system information. |
 | `/sys` | Virtual filesystem for hardware and kernel information. |
-| `/dev` | Contains device files (e.g., `/dev/null`, `/dev/sda`). |
+| `/dev` | Contains device files (e.g., `/dev/null`, `/dev/sda`, keyboard, mouse). Apps and driver will access this, not user. |
 
 ### **Mount Points**
 | Directory | Description |
