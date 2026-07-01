@@ -9,7 +9,7 @@
 |-----------|-------------|
 | `/sbin -> /usr/sbin` | System binaries for administrative commands (linked to `/usr/sbin`), command that admin used (need superuser previlege) and system itself|
 | `/bin -> /usr/bin` | Essential user binaries (linked to `/usr/bin`), Contain the most basic command.|
-| `/lib -> /usr/lib` | Shared libraries and kernel modules (linked to `/usr/lib`). |
+| `/lib -> /usr/lib` | Shared libraries and kernel modules (linked to `/usr/lib`). Collection of ready-made code that programs in `/bin` and `/sbin` use to perform common tasks |
 
 ### **Important System Directories**
 | Directory | Description |
