@@ -16,7 +16,7 @@
 |-----------|-------------|
 | `/boot` | Stores files needed for booting the system (not relevant in containers). |
 | `/usr` | Contains most user-installed applications and libraries. |
-| `/usr/local` | Programs that you install on the computer (3rd party app-- Docker, Java, Minikube etc). program installed here, will be available to all user|
+| `/usr/local` | Programs that you install on the computer (3rd party app). program installed here, will be available to all user|
 | `/var` | Stores logs, caches, and temporary files that change frequently. |
 | `/etc` | Stores system configuration files. |
 
