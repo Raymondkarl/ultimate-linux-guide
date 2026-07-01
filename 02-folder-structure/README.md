@@ -18,6 +18,8 @@
 | `/usr` | Contains most user-installed applications and libraries. |
 | `/usr/local` | Programs that you install on the computer (3rd party app). program installed here, will be available to all user|
 | `/var` | Stores logs, caches, and temporary files that change frequently. |
+  | `/var/log` | Contain log files |
+  | `/var/cache` | Contain cached data from application programs. |
 | `/etc` | Stores system configuration files. |
 
 ### **User & Application-Specific Directories**
