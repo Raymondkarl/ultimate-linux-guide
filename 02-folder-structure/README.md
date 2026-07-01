@@ -1,3 +1,5 @@
+<img width="1352" height="282" alt="image" src="https://github.com/user-attachments/assets/8a9e30a4-a528-4767-b9cf-5421442dd3e6" />
+
 # Understanding the Folder Structure
 
 ### Explanation of System Directories
