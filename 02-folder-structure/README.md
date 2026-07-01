@@ -7,7 +7,7 @@
 ### **Symbolic Links (Less Significant)**
 | Directory | Description |
 |-----------|-------------|
-| `/sbin -> /usr/sbin` | System binaries for administrative commands (linked to `/usr/sbin`), command that admin used|
+| `/sbin -> /usr/sbin` | System binaries for administrative commands (linked to `/usr/sbin`), command that admin used (need superuser previlege) and system itself|
 | `/bin -> /usr/bin` | Essential user binaries (linked to `/usr/bin`), Contain the most basic command.|
 | `/lib -> /usr/lib` | Shared libraries and kernel modules (linked to `/usr/lib`). |
 
